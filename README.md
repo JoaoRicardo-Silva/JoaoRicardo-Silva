@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 I’m looking for a Job
 - 🌱 I’m currently learning TypeScript
-- 🗣️ English: intermediary
+- 🗣️ English: Intermediate
 - 🗣️ Portuguese: Native
 
 <div>
