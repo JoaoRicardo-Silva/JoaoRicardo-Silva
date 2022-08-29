@@ -1,8 +1,11 @@
 ### Hi i'm João Ricardo👋
 
+- 🇧🇷 i'm form Brazil
 - 😄 Pronouns: He/Him
 - 🔭 I’m looking for a Job
 - 🌱 I’m currently learning TypeScript
+- 🗣️ English: intermediary
+- 🗣️ Portuguese: Native
 
 <div>
   <a href="hhttps://beacons.ai/joaoricardo">
